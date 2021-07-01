@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">Contact Me:mailbox:</h4>
 <p align="center">
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hamza-manan-b15778199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:hamzamanan35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hamza%20Manan-blue?style=for-the-badge&logo=gmail"></a>
 <a href="https://twitter.com/HamzaManan3"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hamza%20Manan-blue?style=for-the-badge&logo=Twitter"></a>
 <a href="https://www.facebook.com/hamza.manan.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Hamza%20Manan-blue?style=for-the-badge&logo=Facebook"></a>
