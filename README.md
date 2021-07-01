@@ -8,7 +8,7 @@ You have finally discovered my Github profile.
 <br>
 ⚡ Fun fact: Я могу говорить по-русски
 <br>
-## Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
 ## **Languages and Tools:**  
 
