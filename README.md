@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+
+
+
+**Languages and Tools:**  
+
+
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+
+
 <!--
 **hamzamanan/hamzamanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +34,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">Github stats :bar_chart:</h2>
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hamzamanan}/count.svg" alt="Hamza's :: Visitor's Count" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamanan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamanan&langs_count=10&theme=tokyonight&layout=compact" alt="Hamza's :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hamzamanan&show_icons=true&theme=synthwave" alt="Hamza's :: Profile Stats" /></p>
+
+<h4 align="center">Contact Me:mailbox:</h4>
+<p align="center">
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:hamzamanan35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hamza%20Manan-blue?style=for-the-badge&logo=gmail"></a>
+<a href="https://twitter.com/HamzaManan3"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hamza%20Manan-blue?style=for-the-badge&logo=Twitter"></a>
+<a href="https://www.facebook.com/hamza.manan.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Hamza%20Manan-blue?style=for-the-badge&logo=Facebook"></a>
+</p>
