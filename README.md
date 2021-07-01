@@ -6,7 +6,7 @@ I am Hamza , A Software engineer from Pakistan
 ⚡ Fun fact: Я могу говорить по-русски
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
-##**Languages and Tools:**  
+## **Languages and Tools:**  
 
 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
