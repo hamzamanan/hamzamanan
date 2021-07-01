@@ -1,10 +1,14 @@
 ### Hi there 👋
 You have finally discovered my Github profile.
 ### About Me
-I am Hamza , A Software engineer from Pakistan
+<br>
+:sunglasses: I am Hamza , A Software engineer from Pakistan
+<br>
 🌱 I’m currently learning python and React.js
+<br>
 ⚡ Fun fact: Я могу говорить по-русски
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+<br>
+## Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
 ## **Languages and Tools:**  
 
