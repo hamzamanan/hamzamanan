@@ -6,7 +6,7 @@ You have finally discovered my Github profile.
 <br>
 🌱 I’m currently learning python and React.js
 <br>
-⚡ Fun fact: Я могу говорить по-русски
+⚡ Fun fact: Я могу говорить по русски
 <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
