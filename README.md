@@ -1,16 +1,13 @@
 ### Hi there 👋
 You have finally discovered my Github profile.
+
 ### About Me
 <br>
-:sunglasses: I am Hamza , A web developer from Pakistan
-<br>
-I like to code things from scratch, and enjoy bringing ideas to life in the browser.
-Since beginning my journey as a freelance designer nearly 3 years ago, I've done remote work for agencies and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills.
-my Recent Work www.fitflexapp.com, its still under construction :P
-<br>
-Fun fact: Я могу говорить по русски
-<br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+I am a web developer with over 3 years of experience working with technologies such as React, Python, Node, HTML, and CSS. I am passionate about solving complex problems and constantly strive to improve my skills and knowledge in the field.
+
+In my current role, I have had the opportunity to work on a variety of projects and have gained valuable experience in both front-end and back-end development. I am a strong believer in the power of collaboration and enjoy working with others to bring innovative ideas to life.
+
+Outside of work, I am an avid learner and always looking for new challenges to tackle. I enjoy staying up-to-date with the latest web development trends and technologies, and am always open to new opportunities to grow and improve as a developer.
 
 ## **Languages and Tools:**  
 
