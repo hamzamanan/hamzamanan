@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hamzamanan}/count.svg" alt="Hamza's :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hamzamanan&show_icons=true&theme=synthwave" alt="Hamza's :: Profile Stats" /></p>
-
 <h4 align="center">Contact Me:mailbox:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/hamza-manan-b15778199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
