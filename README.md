@@ -8,8 +8,9 @@ modern UI development. With a strong foundation in both frontend and full-stack 
 diverse projects, from e-commerce platforms to enterprise-grade ERP systems. I excel at optimizing legacy code,
 implementing robust UI/UX solutions. I am Passionate about delivering seamless user
 experiences, I thrive on solving complex technical challenges and continuously improving my skillset.
-</br>
-<strong>heres my <a href='https://hamza-manan-portfolio.vercel.app/'>portfolio</a> website</strong>
+<br/>
+<br/>
+<strong>Heres my <a href='https://hamza-manan-portfolio.vercel.app/'>portfolio</a> website</strong>
 <br/>
 
 
