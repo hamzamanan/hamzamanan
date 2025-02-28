@@ -9,18 +9,28 @@ diverse projects, from e-commerce platforms to enterprise-grade ERP systems. I e
 implementing robust UI/UX solutions. I am Passionate about delivering seamless user
 experiences, I thrive on solving complex technical challenges and continuously improving my skillset.
 
+<h4 align="center">Contact Me:mailbox:</h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/hamza-manan-b15778199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:hamzamanan35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hamza%20Manan-blue?style=for-the-badge&logo=gmail"></a>
+<a href="https://twitter.com/HamzaManan3"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hamza%20Manan-blue?style=for-the-badge&logo=Twitter"></a>
+<a href="https://www.facebook.com/hamza.manan.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Hamza%20Manan-blue?style=for-the-badge&logo=Facebook"></a>
+</p>
+
 ## **Languages and Tools:**  
 
 
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/next.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/redux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 
 
@@ -43,10 +53,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hamzamanan}/count.svg" alt="Hamza's :: Visitor's Count" /></p>
 
-<h4 align="center">Contact Me:mailbox:</h4>
-<p align="center">
-<a href="https://www.linkedin.com/in/hamza-manan-b15778199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Manan-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:hamzamanan35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hamza%20Manan-blue?style=for-the-badge&logo=gmail"></a>
-<a href="https://twitter.com/HamzaManan3"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hamza%20Manan-blue?style=for-the-badge&logo=Twitter"></a>
-<a href="https://www.facebook.com/hamza.manan.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Hamza%20Manan-blue?style=for-the-badge&logo=Facebook"></a>
-</p>
+
