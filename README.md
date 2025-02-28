@@ -3,11 +3,11 @@ You have finally discovered my Github profile.
 
 ### About Me
 <br>
-I am a web developer with over 3 years of experience working with technologies such as React, Python, Node, HTML, and CSS. I am passionate about solving complex problems and constantly strive to improve my skills and knowledge in the field.
-
-In my current role, I have had the opportunity to work on a variety of projects and have gained valuable experience in both front-end and back-end development. I am a strong believer in the power of collaboration and enjoy working with others to bring innovative ideas to life.
-
-Outside of work, I am an avid learner and always looking for new challenges to tackle. I enjoy staying up-to-date with the latest web development trends and technologies, and am always open to new opportunities to grow and improve as a developer.
+I am a results-driven Frontend Developer with 5 years of experience specializing in React, Next.js, and
+modern UI development. With a strong foundation in both frontend and full-stack development, I have worked on
+diverse projects, from e-commerce platforms to enterprise-grade ERP systems. I excel at optimizing legacy code,
+implementing robust UI/UX solutions. I am Passionate about delivering seamless user
+experiences, I thrive on solving complex technical challenges and continuously improving my skillset.
 
 ## **Languages and Tools:**  
 
